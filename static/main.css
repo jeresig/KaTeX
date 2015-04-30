@@ -10,3 +10,17 @@ body {
     width: 100%;
     box-sizing: border-box;
 }
+
+#math .katex-a11y {
+    border: 1px solid #000;
+    clip: auto;
+    display: block;
+    font-size: 13px;
+    height: auto;
+    margin: 5px;
+    overflow: auto;
+    padding: 5px;
+    position: static;
+    white-space: normal;
+    width: 600px;
+}
